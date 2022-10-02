@@ -17,6 +17,7 @@
 [![@alan's Holopin board](https://holopin.io/api/user/board?user=alan)](https://holopin.io/@alan)
 <br>
 <p align="center"; >Contact Me</p>
-<p align="center"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<p align="center">
+<a href="https://www.linkedin.com/in/alan-biju-4a4361223"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto: alanbiju154@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
